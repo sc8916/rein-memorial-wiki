@@ -17,6 +17,7 @@ The file is written in a simple format called Markdown.
 - Just write sentences as normal.
 - Make something **bold** with `**bold text**` or *italicized* with `*italics*`
 - If you'd like to make a link e.g. to [a website](#), use brackets `[link text](urlformylink.com)`
+- Make a big category with two #s, `## Big Heading` and subheadings under them with 3 `### Subheading`
 - Drag and drop any photos directly from your computer into the text. It'll show up as a weird link like `![000012](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/41fcc595-fec5-4142-8a7e-3d135b649744)`. In the actual Wiki page, it will look like a citation so that when someone hovers over the number, the image will pop up! Move the weird links to wherever you'd like the "citation" to be.
 
 ## Extension
