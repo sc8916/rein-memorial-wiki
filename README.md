@@ -23,6 +23,12 @@ The file is written in a simple format called Markdown.
 - Make a big category with two #s, `## Big Heading` and subheadings under them with 3 `### Subheading`
 - Drag and drop any photos directly from your computer into the text. It'll show up as a weird link like `![000012](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/41fcc595-fec5-4142-8a7e-3d135b649744)`. In the actual Wiki page, it will look like a citation so that when someone hovers over the number, the image will pop up! Move the weird links to wherever you'd like the "image citation" to be.
 
+### Saving
+
+Once you've finished editing. Hit the green button in the top right to `Commit Changes` to save
+
+A dialog box will pop up and then press the green button again to `Propose Changes` and I will make sure to add them. The website should be updated soon after.
+
 ## Extension
 Are you looking fork my repo to make a wikipedia-style page yourself? Here's how I did it.
 
