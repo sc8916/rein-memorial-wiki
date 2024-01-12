@@ -8,8 +8,11 @@ Did you also love Rein? Feel free to make edits and changes! Doing this is simpl
 
 1. Create an account on github or log in if you already have an account. 
     - If you don't want to do this, don't worry, email me `mnoukhov@gmail.com` any changes you'd like to make and I'll do them for you!
-2. Click on `text.md` above. This is the main file you need to edit.
+2. Click on `text.md` file above. This is the file you need to edit.
 3. Click on the upper-right hand pencil button to edit. Now you're editing the file!
+   
+![edit-github](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/6e584565-3dff-44aa-b4d7-645e9898ad27)
+
 
 ### How to Edit
 
@@ -18,7 +21,7 @@ The file is written in a simple format called Markdown.
 - Make something **bold** with `**bold text**` or *italicized* with `*italics*`
 - If you'd like to make a link e.g. to [a website](#), use brackets `[link text](urlformylink.com)`
 - Make a big category with two #s, `## Big Heading` and subheadings under them with 3 `### Subheading`
-- Drag and drop any photos directly from your computer into the text. It'll show up as a weird link like `![000012](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/41fcc595-fec5-4142-8a7e-3d135b649744)`. In the actual Wiki page, it will look like a citation so that when someone hovers over the number, the image will pop up! Move the weird links to wherever you'd like the "citation" to be.
+- Drag and drop any photos directly from your computer into the text. It'll show up as a weird link like `![000012](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/41fcc595-fec5-4142-8a7e-3d135b649744)`. In the actual Wiki page, it will look like a citation so that when someone hovers over the number, the image will pop up! Move the weird links to wherever you'd like the "image citation" to be.
 
 ## Extension
 Are you looking fork my repo to make a wikipedia-style page yourself? Here's how I did it.
