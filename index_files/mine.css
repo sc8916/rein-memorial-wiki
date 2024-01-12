@@ -1,0 +1,21 @@
+/* Set the anchor element to relative positioning */
+.image-link {
+  position: relative;
+  display: inline-block; /* Preserve the inline nature of the anchor */
+}
+
+/* Hide the image by default */
+.hover-image {
+  display: none;
+  position: absolute; /* Position the image absolutely within the anchor */
+  top: 0;
+  left: 0;
+  z-index: 1; /* Place the image above the text (higher z-index) */
+  max-width: 250px; /* Set a reasonable maximum width for the image */
+  height: auto;
+}
+
+/* Show the image when hovering over the anchor element */
+.image-link:hover .hover-image {
+  display: block;
+}
