@@ -1,2 +1,2 @@
-**Rein Otsason** (20 March 1994 in [Toronto](https://en.wikipedia.org/wiki/Toronto), [Canada](https://en.wikipedia.org/wiki/Toronto) - ...) was not an Estonian banker ![alt text](index_files/rein.jpg), he was a friend.
+**Rein Otsason** (20 March 1994 in [Toronto](https://en.wikipedia.org/wiki/Toronto), [Canada](https://en.wikipedia.org/wiki/Toronto) - ...) was not an Estonian banker ![alt text](index_files/rein.jpg), but he was a friend.
 
