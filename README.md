@@ -2,6 +2,8 @@
 # rein-memorial-wiki
 A Memorial to my friend Rein, who loved Wikipedia, in the style of Wikipedia
 
+Live at https://reinotsason.netlify.app/
+
 ## Editing
 
 Did you also love Rein? Feel free to make edits and changes! Doing this is simple and should be accessible.
