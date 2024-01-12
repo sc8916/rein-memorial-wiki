@@ -6,5 +6,10 @@
 
 ### Publications
 
+## Fun facts
+
+Rein had a man bun for a while ![000012](https://github.com/mnoukhov/rein-memorial-wiki/assets/3391297/41fcc595-fec5-4142-8a7e-3d135b649744)
+
+
 ## See Also
 - [Holomorphic Dynamics](https://en.wikipedia.org/wiki/Complex_dynamics)
